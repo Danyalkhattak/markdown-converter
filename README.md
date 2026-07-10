@@ -160,7 +160,7 @@ Here’s how to contribute:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](./docs/LICENSE).  
 Premium features are unlocked via a legitimate Chrome Web Store purchase.
 
 ---
