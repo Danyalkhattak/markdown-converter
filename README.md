@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="./extension/icons/icon128.png" alt="Markdown Converter Logo" width="128" height="128"/>
+  <img src="/extension/icons/icon128.png" alt="Markdown Converter Logo" width="128" height="128"/>
 </p>
 
 <h1 align="center">Markdown → PDF & DOCX Converter</h1>
